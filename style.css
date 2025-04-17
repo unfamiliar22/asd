@@ -1,0 +1,361 @@
+body {
+    background-color: rgb(92, 92, 92);
+}
+.container {
+    background-color: rgb(112, 112, 219);
+    height: 800px;
+    width: 350px;
+    border-radius: 5%;
+}
+
+.Dindon {
+    position: relative;
+    left: 180px;
+}
+.Nike {
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+.search {
+    position: relative;
+    left: 20px;
+}
+
+.btn {
+    position: relative;
+    top: 60px;
+    right: 115px;
+    height: 40px;
+    width: 90px;
+    border-radius: 20%;
+    border-color: rgb(189, 204, 218);
+    background-color: rgb(189, 204, 218);
+}
+.btn1 {
+    position: relative;
+    top: 60px;
+    right: 110px;
+    height: 40px;
+    width: 90px;
+    border-radius: 20%;
+    border-color: rgb(189, 204, 218);
+    background-color: rgb(189, 204, 218);
+}
+.btn2 {
+    position: relative;
+    top: 20px;
+    left: 220px;
+    height: 40px;
+    width: 90px;
+    border-radius: 20%;
+    border-color: rgb(189, 204, 218);
+    background-color: rgb(189, 204, 218);
+    
+}
+.justdoit {
+    background-color: rgb(65, 67, 89);
+    width: 270px;
+    position: relative;
+    left: 40px;
+    top: 50px;
+    height: 270px;
+    border-radius: 10%;
+}
+
+.Krosi {
+    width: 220px;
+    height: 100px;
+    position: relative;
+    left: 50px;
+    top: 10px;
+    
+}
+
+.dt {
+    position: relative;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    top: 20px;
+    left: 15px;
+}
+.jdt {
+    position: relative;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    top: 3px;
+    left: 15px;
+}
+.on {
+    position: relative;
+    left: 20px;
+    height: 40px;
+    width: 90px;
+    border-radius: 15%;
+    background-color: orange;
+    border-color: orange;
+}
+.top {
+    position: relative;
+    top: 45px;
+    color: white;
+    left: 20px;
+}
+.wa {
+    position: relative;
+    left: 260px;
+    top: 5px;
+    color: rgb(167, 167, 253);
+
+}
+.block {
+    background-color: white;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    left: 25px;
+    border-radius: 15%;
+
+}
+.to {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: rgb(67, 88, 209);
+    font-size: 26px;
+    font-weight: bold;
+}
+.heart  {
+    position: relative;
+    left: 150px;
+    bottom: 110px;
+}
+.nikee {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    top: 25px;
+    right: 10px;
+}
+
+.nk {
+    position: relative;
+    left: 40px;
+    bottom: 5px;
+    color:  rgb(67, 88, 209);
+}
+.block1 {
+    background-color: white;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    left: 250px;
+    border-radius: 15%;
+    bottom: 228px;
+}
+.footer {
+    position: relative;
+    bottom: 200px;
+    left: 30px;
+}
+.spoh {
+    position: relative;
+    left: 40px;
+
+}
+.set {
+    position: relative;
+    left: 90px;
+}
+.prof {
+    position: relative;
+    left: 150px;
+}
+.container3{
+    background-color: aliceblue;
+    height: 800px;
+    width: 350px;
+    border-radius: 5%;
+}
+.shop2{
+    position: relative;
+    left: 180px;
+}
+.nikeee{
+    position: relative;
+    left: 110px;
+    top: 20px;
+}
+.bac{
+    position: relative;
+    left: 20px;
+}
+.AMP{
+    position: relative;
+    left: 70px;
+    color: rgb(60, 60, 148);
+}
+.star{
+    position: relative;
+    left: 110px;
+    bottom: 200px;
+}
+.kros{
+    width: 250px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    right: 60px;
+}
+.krug1{
+    border-radius: 50%;
+    position: relative;
+    width: 10px;
+    height: 10px;
+    background-color: rgb(92, 92, 92);
+}
+.krug2{
+    border-radius: 50%;
+    position: relative;
+    width: 10px;
+    height: 10px;
+    background-color: rgb(65, 67, 139);
+}
+.krug{
+    display: flex;
+    top: 30px;
+    position: relative;
+    left: 130px;
+}
+.pr{
+    position: relative;
+    top: 40px;
+    left: 20px;
+    color: aliceblue;
+}
+.section3{
+    background-color: rgb(58, 58, 118);
+    height: 400px;
+    width: 350px;
+    border-radius: 5%;
+    position: relative;
+    top: 10px;
+}
+
+.p133 {
+    position: relative;
+    color: white;
+    font-size: 38px;
+    font-weight: bold;
+    left: 20px;
+    top: 20px;
+}
+
+.SelS { 
+    position: relative;
+    color: white;
+    font-size: 24px;
+    left: 25px;
+    top: 10px; 
+}
+.krygi {
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+}
+.krygi1 {
+    border-radius: 50%;
+    position: relative;
+    background-color: rgb(58, 58, 118);
+    border-color: rgb(188, 188, 234);
+    border-width: 2px;
+    height: 30px;
+    width: 30px;
+    border-style: solid;
+    bottom: 200px;
+    left: 5px;
+    color: rgb(188, 188, 234);
+    font-size: 24px;
+    text-align: center;
+
+}
+.krygi2 {
+    border-radius: 50%;
+    position: relative;
+    background-color: rgb(58, 58, 118);
+    border-color: rgb(188, 188, 234);
+    border-width: 2px;
+    height: 30px;
+    width: 30px;
+    border-style: solid;
+    bottom: 200px;
+    right: 15px;
+    color: rgb(188, 188, 234);
+    font-size: 24px;
+    text-align: center;
+
+}
+.krygi3 {
+    border-radius: 50%;
+    position: relative;
+    background-color: rgb(58, 58, 118);
+    border-color: rgb(214, 199, 86);
+    border-width: 2px;
+    height: 30px;
+    width: 30px;
+    border-style: solid;
+    bottom: 200px;
+    right: 30px;
+    color: rgb(214, 199, 86);
+    font-size: 24px;
+    text-align: center;
+
+}
+.krygi4 {
+    border-radius: 50%;
+    position: relative;
+    background-color: rgb(58, 58, 118);
+    border-color: rgb(188, 188, 234);
+    border-width: 2px;
+    height: 30px;
+    width: 30px;
+    border-style: solid;
+    bottom: 200px;
+    right: 45px;
+    color: rgb(188, 188, 234);
+    font-size: 24px;
+    text-align: center;
+
+}
+.krygi5 {
+    border-radius: 50%;
+    position: relative;
+    background-color: rgb(58, 58, 118);
+    border-color: rgb(188, 188, 234);
+    border-width: 2px;
+    height: 30px;
+    width: 30px;
+    border-style: solid;
+    bottom: 200px;
+    right: 60px;
+    color: rgb(188, 188, 234);
+    font-size: 24px;
+    text-align: center;
+
+}
+.DES{
+    position: relative;
+    bottom: 190px;
+    color: aliceblue;
+    left: 20px;
+
+}
+.www{
+    position: relative;
+    bottom: 200px;
+    color: aliceblue;
+    left: 10px;
+}
